@@ -17,15 +17,7 @@
 	
 }
 
-#head{
-    text-align: center;
-    font-weight: bolder;
-    
-    color: rgb(4, 4, 85);
-    padding-top: 25px;
-    font-family: Arial, Helvetica, sans-serif;
 
-}
 
 #header {
     margin: 0 auto;
@@ -119,15 +111,15 @@ h2{
 main>a:link{
     color: rgb(16, 69, 71);
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+    font-weight: normal;
     font-size: 20px;
-    padding-left: 20px;
+    
 }
 
 main>a:visited{
     color: rgb(14, 56, 58);
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+    font-weight: normal;
     font-size: 20px;
 }
 
@@ -179,6 +171,7 @@ footer>p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 40px;
     padding-bottom: 20px;
+    padding-left: 20px;
     color: grey;
 }
 
