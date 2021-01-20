@@ -184,3 +184,34 @@ footer>p>a{
 footer>p>a:hover{
     color: darkgoldenrod;
 }
+
+#blog{
+    color: #333333;
+    text-decoration: none;
+}
+
+.hrl {
+    border-bottom:dimgray 1px dotted;
+    clear: left;
+    padding-bottom: 5px;
+}
+
+div>a{
+    color: #333333;
+    text-decoration: none;
+    padding-bottom: 80px;
+}
+
+div>a:hover{
+    color: rgb(184, 51, 11);
+}
+
+p>a{
+    color: #333333;
+    text-decoration: none;
+    padding-bottom: 80px;
+}
+
+p>a:hover{
+    color: rgb(184, 51, 11);
+}
